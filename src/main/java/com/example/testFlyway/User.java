@@ -2,7 +2,7 @@ package com.example.testFlyway;
 
 
 import javax.persistence.*;
-
+//this is test push
 @Entity
 @Table(name = "user")
 public class User {
